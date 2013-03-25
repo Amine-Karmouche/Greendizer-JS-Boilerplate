@@ -1,7 +1,7 @@
 Welcome to Greendizer Boilerplate
 
 #Contents
-This is a JavasScript starter project using OAuth 2.0/BasicAuth for authentication.
+This is a JavaScript starter project using OAuth 2.0/BasicAuth for authentication.
 This boilerplate enables you to start your first Javascript powered Greendizer application.
 The provided code enables you (as a seller) to display the user settings along with listing invoices and hourly digests. Consult the greendizer reference if need be.
 
