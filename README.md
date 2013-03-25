@@ -1,2 +1,2 @@
-Greendier-JS-Boilerplate
+Greendizer-JS-Boilerplate
 ========================
